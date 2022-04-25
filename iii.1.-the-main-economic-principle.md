@@ -1,0 +1,14 @@
+# III.1. The main economic principle
+
+
+
+The VTV cryptocurrency is a utility token that has value on the platform by giving its holders the ability to post, curate and promote relevant online videos. It also has value outside the platform as it can be traded on online exchanges for other currencies.
+
+The principle consists in attracting users with VTV rewards for posts, votes or tags. The community is also incentivized to purchase VTV on online markets for voting power and the ability to rate content. This creates a sustainable demand for the token on the markets and increases overall market capitalization.
+
+#### A few terms are explained for clarification as follows:
+
+* VTV circulating supply: The total volume of tokens emitted until now.
+* VTV exchange price: The price at which the token is traded on online markets for other currencies. It is determined by buying and selling volume and is usually presented in USD or BTC.
+* VTV market capitalization: The total market value of the VTV circulating supply calculated as price multiplied by the circulating supply.
+* Online exchange markets: The platforms that provide currency trading services. They have various trading pairs, commissions and exchange prices for the pair.
