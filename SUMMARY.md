@@ -17,6 +17,7 @@
 * [III.4. The economic cycle](iii.4.-the-economic-cycle.md)
 * [IV. COMPANY AND ROADMAP](iv.-company-and-roadmap.md)
 * [IV.1. The VLOKR organization](iv.1.-the-vlokr-organization.md)
+* [ROADMAP](roadmap.md)
 * [APPENDIX A: THE LIMITATIONS OF SOCIAL MEDIA PLATFORMS](appendix-a-the-limitations-of-social-media-platforms.md)
 * [APPENDIX B: THE VTV DISTRIBUTION ALGORITHM](appendix-b-the-vtv-distribution-algorithm.md)
 * [APPENDIX C: COMPETITION](appendix-c-competition.md)

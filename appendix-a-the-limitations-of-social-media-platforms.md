@@ -5,8 +5,7 @@ The social networks have steadily increased their audience and changed how peopl
 The reason why social networks surpassed classic media outlets in revenue and became a profitable business model was because of targeted online advertising. This type of advertising allowed companies a less costly, more widespread and more customizable advertising solution than the traditional TV and offline medias. The platforms have thus started to gain significant followers through social interactions between users on Facebook or through quality content that was made by creators on YouTube.
 
 \
-\
-
+\\
 
 **The old advertising model is confronted with issues**
 
@@ -14,7 +13,7 @@ The targeted advertising model is lately encountering some issues such as inequa
 
 The platforms need to cover their rising infrastructure costs and thus increase revenue. This is usually done by increasing the ad catalogue, by using algorithmic content distribution and by selling personal data to companies for advertising purposes. The other stakeholders have opposite interests:
 
-![](<.gitbook/assets/image (10).png>)
+![](<.gitbook/assets/image (10) (1).png>)
 
 * Creators want more revenue sharing and more interaction with fans.
 * The users prioritize less intrusion in their private life and this is translated as no personal data collection and a transparent content distribution algorithm.
@@ -39,14 +38,11 @@ Limitation 3: The brand association risks for advertisers
 The social media platforms need content moderation to create a safe framework for advertisers. If inappropriate content is not banned from the platform, advertisers will be concerned for their brand image and risk unwanted association. The automated moderation has proved on a number of occasions to be inefficient for this purpose.
 
 \
-\
-
+\\
 
 **The response of major social platforms**
 
 The social media platforms chose to deal with such issues by favoring advertisers and revenues and the expense of users and content creators. They relied more on automated content moderation and increased the monetization threshold for creators. This resulted in reduced creator revenues, unwanted content demonetization and less fan interaction while promoting what was recommended by the algorithms and advertisers. The social medias also launched premium content features to increase revenues from viewers.
-
-
 
 The platforms have increased their revenue with additional ad pressure and with reducing the proportion of income that is allocated to creators. The advertisers have convened to protect their brands with automated moderation and human moderation also. They planned to increase content quality with higher monetization thresholds.
 
