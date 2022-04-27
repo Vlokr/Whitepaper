@@ -5,7 +5,7 @@ The social networks have steadily increased their audience and changed how peopl
 The reason why social networks surpassed classic media outlets in revenue and became a profitable business model was because of targeted online advertising. This type of advertising allowed companies a less costly, more widespread and more customizable advertising solution than the traditional TV and offline medias. The platforms have thus started to gain significant followers through social interactions between users on Facebook or through quality content that was made by creators on YouTube.
 
 \
-\\
+
 
 **The old advertising model is confronted with issues**
 

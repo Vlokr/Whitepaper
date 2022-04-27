@@ -11,7 +11,6 @@ The principles of a social blockchain inherited from Steem are not optimal becau
 * Supporting long term growth with an adjustable inflation: The VTV rewards are positively correlated with the active users so the incentive to join the network remains constant.
 
 \
-\
 
 
 Improving the content diversity and quality for viewers
@@ -22,7 +21,6 @@ An online video platform achieves its objectives based on the quality and quanti
 * Curation rewards: On Steem the reward pool was split between creator and curator rewards. The majority of our userbase consists in voters so we will allocate most of the reward pool to them. The creators will also be rewarded as they will be allocated the first vote as soon as they post content on the platform.
 * No caps for the monetization window: We will have no time restrictions for monetizing content, as opposed to the maximum of seven days on the Steem platform. This is a good approach for video content.
 
-\
 \
 
 
@@ -35,10 +33,8 @@ The Vlocity blockchain is a decentralized organization that is governed by the c
 The advantage is that the VLOCITY blockchain is solely dedicated to our platform and this allows it to have a greater bandwidth and handle a larger number of transactions. The apps on the Steem blockchain need to share bandwidth and this limits their capacity. The system that we created surpasses such considerations and hurdles to guarantee performance.
 
 \
-\
 
 
-\
 \
 
 

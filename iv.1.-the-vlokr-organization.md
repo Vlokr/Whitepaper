@@ -3,7 +3,7 @@
 The creation of the VLOKR platform is the combined effort of a team of twenty or more software architects, university professors and students, software engineers, coders, cryptocurrency traders, as well as legal and corporate advisors. The team is divided between three corporations, tasked with building the software for applications.
 
 \
-\\
+
 
 The three corporations are:
 

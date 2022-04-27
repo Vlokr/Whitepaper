@@ -5,7 +5,6 @@ The platform changes how content is shared, voted and promoted on the network. O
 The user does not simply like a post, but can specify how much by spending VP tokens to vote. This can represent a fairer way to rank content on the platform by guaranteeing that the most active and knowledgeable users will have the most influence.
 
 \
-\
 
 
 #### **The process for curators**
@@ -20,11 +19,10 @@ The new users can create an account and accumulate the first coins through a ref
 
 The curators browse content on the platform and determine its potential based on number of votes, the date it was posted, who voted on it and other factors that are suitable.
 
-#### &#x20;3) Voting and getting rewarded
+#### 3) Voting and getting rewarded
 
 The curators vote on content with a certain number of VP. They can get rewarded in VTV if the content proves to be of quality and more people vote after that. The amount of VTV that is rewarded is proportional to the VP that was spent to vote. The viewers can thus vote in several ways depending on the quality.
 
-\
 \
 
 

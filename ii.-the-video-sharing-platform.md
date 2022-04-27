@@ -5,10 +5,8 @@ The VLOKR platform is a Proof-of-Concept that applies the principle of a social 
 We have considered the possibility of launching it on the Steem blockchain. This is the first generation social blockchain that received some recognition. We realized that the Steem blockchain had some limitations to be a feasible choice. We decided to use the Avalon blockchain as a starting point for our product instead. We then developed our own system that is a second generation social blockchain. It is called VLOCITY and has some features and improvements that make it more suitable.
 
 \
-\
 
 
-\
 \
 
 
@@ -19,14 +17,11 @@ The online video platform market was valued at 6.98 billion dollars in 2021. It 
 The online video advertisement market is bigger and represented 61.6 billion dollars in 2021. This confirms the idea that the owners of online video platforms receive most of their revenue from advertisements and not from fees and subscriptions paid by viewers. The wide audiences allow them to close significant advertisement contracts.
 
 \
-\
 
 
 \
-\
 
 
-\
 \
 
 
@@ -37,20 +32,16 @@ The social blockchain provides a new interpretation of classic online medias by 
 Viewers can curate content by posting a link of a third-party video from the Internet or by voting and tagging the most relevant videos for ranking purposes. Such activities are not rewarded on other social medias and this is the novelty of this platform.
 
 \
-\
 
 
-\
 \
 
 
 ## “_The curators can grow their user base and gain increased recognition with the VTV tokens. This rewards influencers in a new way that wasn’t available until now.”_
 
 \
-\
 
 
-\
 \
 
 
@@ -63,20 +54,16 @@ The content creators risk demonetization so they are not able to earn revenue. T
 The VLOKR platform has a decentralized infrastructure that is resistant to censorship so that creators can safely post their content. The moderation is done by the millions of users in the community that can block inappropriate content or obvious copyright infringement. The team will not have to take a lot of actions that concern moderation of content. This makes it possible that the team can concentrate on more important matters such as improvements and additions to the platform.
 
 \
-\
 
 
-\
 \
 
 
 ![](<.gitbook/assets/image (8).png>)
 
 \
-\
 
 
-\
 \
 
 

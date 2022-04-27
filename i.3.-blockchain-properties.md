@@ -3,7 +3,7 @@
 The VLOCITY blockchain was created based on the Avalon framework and this allows it to have a lot of customization possibilities and high performance. We chose the Avalon blockchain as a starting point to develop our own product because of its features and scalability. The blockchain can be used for other projects with different types of media but with similar social concepts. It uses a delegated Proof-of-Stake protocol that is included in other notable blockchains such as Cardano, Avalanche, Steem and Loopring.
 
 \
-\\
+
 
 **The economic framework**
 
@@ -18,7 +18,7 @@ Voting on relevant and quality content will increase its exposure so that it wil
 The algorithm is thus more accurate than the classic paradigm of “1 person = 1 vote” because it recognizes that users are different and have individual contributions. The users who are more active and knowledgeable will have more influence to decide what content is promoted.
 
 \
-\\
+
 
 **How it functions**
 
@@ -28,7 +28,7 @@ The VLOKR platform is developed on top of the VLOCITY blockchain. It allows user
 * VP is a voting token that allows users to curate content. The users spend this token to vote on the platform and influence how content is ranked, distributed and rated for viewers. This represents a moderation activity that is fair because it is done by individuals. The token circulates within the platform and has no value outside it.
 
 \
-\\
+
 
 The users go through a number of steps for voting as follows:
 
@@ -48,17 +48,17 @@ The blockchain settles on the amount and proportion of new VTV that are rewarded
 
 The users are compensated with tokens if the vote on relevant and quality content.
 
-\\
+
 
 ![](<.gitbook/assets/image (4) (1).png>)
 
 _Figure 4_: The flow of voting power on the platform.
 
-\\
 
-\\
 
-\\
+
+
+
 
 **Community moderation**
 
@@ -68,7 +68,7 @@ This trend is continued by the VLOCITY blockchain so that content is ranked excl
 
 The community can also vote on the moderation guidelines to achieve consensus. This guarantees that the rules are created by the community and can be changed if there is a requirement to do so.
 
-\\
+
 
 **Community leaders**
 
@@ -78,7 +78,7 @@ On VLOCITY, blockchain validators are called leaders and are elected by the comm
 
 The role of a leader is to host, run the blockchain and validate the implementation of update proposals.
 
-\\
+
 
 **Covering the administrative cost**
 
@@ -87,7 +87,7 @@ A commission can be set on the VLOCITY blockchain to cover the costs of teams wo
 On this blockchain, 10% of the total VTV distributed to users are created and sent to the beneficiary account of VLOKR as reserves. This account is the first one created on the blockchain. The revenue shared to viewers surpasses by a significant margin what is the case on other social media platforms.
 
 \
-\\
+
 
 ![](<.gitbook/assets/image (1) (1).png>)
 
@@ -99,10 +99,9 @@ _Figure 5_: The blockchain reward system.
 The VLOKR platform has a number of advantages over other social medias that consist in the framework based on trust, user empowerment and moderation that is done by the community. It wants to create a fair system where participants are rewarded by their contribution.
 
 \
-\\
+
 
 ![](<.gitbook/assets/image (9) (1).png>)
 
 _Figure 6_: The advantages and differences of VLOKR compared to other social media platforms.
 
-\\

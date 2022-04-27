@@ -3,7 +3,6 @@
 We are not the only company that activates in this sector because we know that a lot of alternative video platforms are planning to launch soon. We have some advantage over them because we already have a live product and we are not only a desktop application as we have support for mobiles also.
 
 \
-\
 
 
 ![](<.gitbook/assets/image (5).png>)

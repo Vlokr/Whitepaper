@@ -11,21 +11,21 @@ As content creators and users grew more accustomed to them, it became obvious th
 * No incentive for content creators and low transparency over monetization algorithms and revenue sharing.
 
 \
-\\
+
 
 ![](<.gitbook/assets/image (2) (1).png>)
 
 _Figure 1_: How the platform functions
 
 \
-\\
+
 
 The large audiences attracted by them resulted in social networks being a means to propagate fake news and introduce a bias on how content is shared. The honesty and transparency of social networks was questioned many times and became a serious concern.
 
 We seek to address this by creating a fair and equitable platform where moderation is conducted by the users through voting. The content that has received downvotes in a sufficient proportion can be removed and users can be rewarded for flagging it.
 
 \
-\\
+
 
 **The downside of a revenue model that is based on advertising**
 
@@ -36,7 +36,7 @@ To base your revenue stream just on advertising results in a series of problems.
 Our platform follows a model that respects user privacy and where moderation is conducted more efficiently and accurately by rewarding viewers to curate content and not rely on censorship. The advertisers can also be confident that their brand image is not associated with fake news or inappropriate content.
 
 \
-\\
+
 
 **The guiding principles**
 

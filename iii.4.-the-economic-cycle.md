@@ -7,4 +7,3 @@ The market capitalization will fluctuate because of the circulating supply and p
 _Figure 8_: The cycle for the price and circulating supply including what influences it.
 
 \
-\\
