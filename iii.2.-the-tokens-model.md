@@ -8,14 +8,11 @@ It was previously stated that each VTV produces one VP per hour for the holder. 
 
 2\) Burning VTV for promotion
 
-The VTV has an additional functionality that can be used to promote content with more VP through burning tokens. This is possible with the promote video feature when posting content. The tokens that have been burned are removed from the circulating supply by the blockchain and additional VP are added for boosting the post.
-
-\
+The VTV has an additional functionality that can be used to promote content with more VP through burning tokens. This is possible with the promote video feature when posting content. The tokens that have been burned are removed from the circulating supply by the blockchain and additional VP are added for boosting the post.\
 
 
 Promoting content will result in more exposure to the post and more rewards for its creator if the content proves to be significant, recent and of high quality. This feature will mostly be used by companies and advertisers who want to promote their products and services.
 
-\
 
 
 #### **The VTV token as an asset**

@@ -4,7 +4,6 @@ The social networks have steadily increased their audience and changed how peopl
 
 The reason why social networks surpassed classic media outlets in revenue and became a profitable business model was because of targeted online advertising. This type of advertising allowed companies a less costly, more widespread and more customizable advertising solution than the traditional TV and offline medias. The platforms have thus started to gain significant followers through social interactions between users on Facebook or through quality content that was made by creators on YouTube.
 
-\
 
 
 **The old advertising model is confronted with issues**
@@ -37,8 +36,7 @@ Limitation 3: The brand association risks for advertisers
 
 The social media platforms need content moderation to create a safe framework for advertisers. If inappropriate content is not banned from the platform, advertisers will be concerned for their brand image and risk unwanted association. The automated moderation has proved on a number of occasions to be inefficient for this purpose.
 
-\
-\\
+
 
 **The response of major social platforms**
 

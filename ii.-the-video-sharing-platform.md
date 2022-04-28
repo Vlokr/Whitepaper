@@ -7,9 +7,6 @@ We have considered the possibility of launching it on the Steem blockchain. This
 \
 
 
-\
-
-
 ### II.1. Online video market <a href="#_toc99732736" id="_toc99732736"></a>
 
 The online video platform market was valued at 6.98 billion dollars in 2021. It is forecasted to increase at an annual growth rate of 18.4% from 2021 to 2028. The online video platforms receive fees from users and provide creators with the possibility to manage, store, organize and publish various content on the channel. Such platforms also allow users to stream live videos, record them and host them as required. The online video sector is getting some support from smartphones and tablets. The gadgets are compatible to play live or recorded content.
@@ -17,11 +14,6 @@ The online video platform market was valued at 6.98 billion dollars in 2021. It 
 The online video advertisement market is bigger and represented 61.6 billion dollars in 2021. This confirms the idea that the owners of online video platforms receive most of their revenue from advertisements and not from fees and subscriptions paid by viewers. The wide audiences allow them to close significant advertisement contracts.
 
 \
-
-
-\
-
-
 \
 
 
@@ -34,13 +26,9 @@ Viewers can curate content by posting a link of a third-party video from the Int
 \
 
 
-\
 
 
 ## “_The curators can grow their user base and gain increased recognition with the VTV tokens. This rewards influencers in a new way that wasn’t available until now.”_
-
-\
-
 
 \
 
@@ -56,15 +44,6 @@ The VLOKR platform has a decentralized infrastructure that is resistant to censo
 \
 
 
-\
-
-
 ![](<.gitbook/assets/image (8).png>)
-
-\
-
-
-\
-
 
 _Figure 7_: How content is ranked and rewarded.

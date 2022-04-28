@@ -20,7 +20,6 @@ The mass adoption of the economic model is hindered by unfair reward distributio
 
 The Steem blockchain already had 400 decentralized applications the last time we checked. This in addition to no customization and low bandwidth can lead to slow performance.
 
-\
 
 
 Our team agreed to use the Avalon framework to develop and test a new blockchain. The blockchain that we created was named VLOCITY to reflect its high performance, speed and functionality. It is a second generation social blockchain like Avalon that has new advancements and improvements.
