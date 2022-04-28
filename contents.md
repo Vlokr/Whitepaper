@@ -1,6 +1,6 @@
 # Contents
 
-#### ABSTRACT 3
+#### ABSTRACT&#x20;
 
 #### I. THE SOCIAL BLOCKCHAIN
 

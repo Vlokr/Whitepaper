@@ -32,4 +32,4 @@ In our roadmap you will see that once the official app is deployed after POC deb
 
 **Pairing**
 
-To ensure a balanced relationship between VTV and bVTV the initial token distribution will be equal on both platforms. There will be a periodic review by the Vlocity non-profit foundation and a consensus by the node operators to balance out the floats through burning, never minting above the total distribution.
+To ensure a balanced relationship between VTV and bVTV the initial token distribution will be equal on both platforms. There will be a periodic review by the Vlokr non-profit foundation and a consensus by the node operators to balance out the floats through burning, never minting above the total distribution.
