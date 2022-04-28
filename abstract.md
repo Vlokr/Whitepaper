@@ -30,3 +30,6 @@ There is a third token that is not native to the Vlocity blockchain, but instead
 
 In our roadmap you will see that once the official app is deployed after POC debugging, it will come with a cross-chain swap function that will seamlessly burn native Vlocity tokens when liquidity is needed and vice versa when bVTV are swapped onto the Vlocity for platform functions.
 
+**Pairing**
+
+To ensure a balanced relationship between VTV and bVTV the initial token distribution will be equal on both platforms. There will be a periodic review by the Vlokr non-profit foundation and a consensus by the node operators to balance out the floats through burning, never minting above the total distribution.
