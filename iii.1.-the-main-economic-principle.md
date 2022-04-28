@@ -1,6 +1,6 @@
 # III.1. The main economic principle
 
-The VTV cryptocurrency is a utility token that has value on the platform by giving its holders the ability to post, curate and promote relevant online videos. It's value is determined by the BEP-20 Liquidity Token, traded on the various Binance chain swap DEX's.
+The VTV cryptocurrency is a utility token that has value on the platform by giving its holders the ability to post, curate and promote relevant online videos. Its value is determined by the BEP-20 Liquidity Token, traded on the various Binance chain swap DEX's.
 
 The principle consists in attracting users with VTV rewards for posts, votes or tags. The community is also incentivized to purchase VTV on online markets for voting power and the ability to rate content. This creates a sustainable demand for the token on the markets and increases overall market capitalization.
 
