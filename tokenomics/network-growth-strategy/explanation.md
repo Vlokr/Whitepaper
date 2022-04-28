@@ -5,8 +5,8 @@
 * VLOKR plans on distributing 1 Billion tokens towards an ICO (initial coin offering) via Launchpad.&#x20;
 * Initial listing price 0.001 USD
 * Upon exiting your position of VTV 5% fees will be deducted&#x20;
-* 100 million VTV will be released to public weekly over 7.5 years
-* 6.5% of the supply totaling 650 Million tokens will be distributed to the team over 7.5 years&#x20;
+* 34,615,384.61 million VTV will be released to public weekly over 5 years
+* 6.5% of the supply totaling 2.25 million tokens will be distributed to the team over 5 years&#x20;
 
 ### Fee Structure
 
