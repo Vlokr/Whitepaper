@@ -10,8 +10,8 @@
 
 ### Emission Rate
 
-* 34,615,384.61 per Week (Release to market)
+* 100 Million per Week (Release to market)
 
 ### Team Tokens
 
-* &#x20;2.25 Million per Week (6.5%)
+* 6.5 Million per Week (6.5%)
