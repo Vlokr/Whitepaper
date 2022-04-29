@@ -3,8 +3,10 @@
 ### A Social Media Platform where Content Creators are Rewarded by Viewers
 
 \
+\
 
 
-#### Whitepaper - Spring 2022
+#### &#x20; Whitepaper - Spring 2022
 
+\
 \
