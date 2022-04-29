@@ -4,7 +4,7 @@ The VTV cryptocurrency is a utility token that has value on the platform by givi
 
 The principle consists in attracting users with VTV rewards for posts, votes or tags. The community is also incentivized to purchase VTV on online markets for voting power and the ability to rate content. This creates a sustainable demand for the token on the markets and increases overall market capitalization.
 
-#### A few terms are explained for clarification as follows:
+### A few terms are explained for clarification as follows:
 
 * VTV circulating supply: The total volume of tokens emitted until now.
 * VTV exchange price: The price at which the token is traded on DEX's for other currencies. It is determined by buying and selling volume and is usually presented in USD or BNB.

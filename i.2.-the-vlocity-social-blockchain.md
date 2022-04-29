@@ -5,7 +5,7 @@ We introduced the VLOCITY blockchain for social medias according to our principl
 \
 
 
-**Using the blockchain to change the paradigm of trust**
+### **Using the blockchain to change the paradigm of trust**
 
 The blockchain, decentralized infrastructures and new software can change how trust is implemented on social networks. The blockchain is a central ledger that is hosted among many participants connected to the same network. It achieves the objective of trust because of the following properties:
 
@@ -29,7 +29,7 @@ _Figure 3_: The IPFS infrastructure
 
 
 
-**User contributions are rewarded**
+### **User contributions are rewarded**
 
 The collaborative models for communities have received positive opinions and they gained this appreciation by implementing the user’s contributions, such as car sharing, community reviews or code that was available publicly.
 

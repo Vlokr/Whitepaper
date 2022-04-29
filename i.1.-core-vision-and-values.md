@@ -1,6 +1,6 @@
 # I.1. Core Vision and Values
 
-**A new way to conceptualize trust in social media platforms**
+### **A new way to conceptualize trust in social media platforms**
 
 The social networks have completely changed how we socially interact by giving us the possibility of an online medium for it. This has created a new way to communicate with our friends or to state our opinions on sporting events, politicians or celebrities.
 
@@ -27,7 +27,7 @@ We seek to address this by creating a fair and equitable platform where moderati
 \
 
 
-**The downside of a revenue model that is based on advertising**
+## **The downside of a revenue model that is based on advertising**
 
 The wide audiences of social networks allowed them to offer advertisers a solution that is cheaper, more impactful and slightly more customizable than traditional TV or newspapers. The recent trends show a limit to this approach.
 
@@ -38,7 +38,7 @@ Our platform follows a model that respects user privacy and where moderation is 
 \
 
 
-**The guiding principles**
+### **The guiding principles**
 
 Our team is committed to focusing on and adhering to the following principles:
 

@@ -5,7 +5,7 @@ The VLOCITY blockchain was created based on the Avalon framework and this allows
 \
 
 
-**The economic framework**
+### **The economic framework**
 
 This framework is based on an algorithm that creates and distributes cryptocurrency tokens to reward each participant for contributions such as posts, votes and tags. The VTV tokens have a utilitarian value by allocating voting power and bandwidth to its holder with time. The more VTV tokens held, the faster the user can collect these resources.
 
@@ -20,7 +20,7 @@ The algorithm is thus more accurate than the classic paradigm of “1 person = 1
 \
 
 
-**How it functions**
+### **How it functions**
 
 The VLOKR platform is developed on top of the VLOCITY blockchain. It allows users to post, vote and tag videos. It has two tokens:
 
@@ -60,7 +60,7 @@ _Figure 4_: The flow of voting power on the platform.
 
 
 
-**Community moderation**
+### **Community moderation**
 
 The algorithmic moderation of social platforms results in a lot of fake news and promotion of political and commercial objectives in a misleading way. The community ranking proved to be the most accurate and fair to rate and organize information on the Internet on subjects such as movies, real estate or restaurants in a specific region.
 
@@ -70,7 +70,7 @@ The community can also vote on the moderation guidelines to achieve consensus. T
 
 
 
-**Community leaders**
+### **Community leaders**
 
 The VLOCITY system is designed as a decentralized organization, run by elected leaders who can decide on what propositions from the development team to implement for updating any aspect of the blockchain.
 
@@ -80,7 +80,7 @@ The role of a leader is to host, run the blockchain and validate the implementat
 
 
 
-**Covering the administrative cost**
+### **Covering the administrative cost**
 
 A commission can be set on the VLOCITY blockchain to cover the costs of teams working on the platform. Such costs can have a development, marketing, legal or corporate nature. The commission is on top of what is distributed to viewers for voting.
 
