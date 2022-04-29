@@ -10,6 +10,7 @@
 * [II. THE VIDEO SHARING PLATFORM](ii.-the-video-sharing-platform.md)
 * [II.2. Choosing a suitable blockchain](ii.2.-choosing-a-suitable-blockchain.md)
 * [II.3. The VLOCITY blockchain](ii.3.-the-vlocity-blockchain.md)
+* [II.4. Smart Chain Utility](ii.4.-smart-chain-utility.md)
 * [III. TOKENS AND BUSINESS MODEL](iii.-tokens-and-business-model.md)
 * [III.1. The main economic principle](iii.1.-the-main-economic-principle.md)
 * [III.2. The tokens model](iii.2.-the-tokens-model.md)
