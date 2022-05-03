@@ -13,6 +13,8 @@ The three corporations are:
 
 #### 3) The VLOCITY Foundation in Aruba, South America is a non-profit organization.
 
+#### 4) Capital funding Newport Beach Technology Acquisitions
+
 
 
 The cryptocurrency industry has a high volatility of price and this will apply to our case also. The token value from private funding, its value at the crowd sale and the resulting market value after that will all be different and hopefully increasing if the plan is followed and the team does things the way they are supposed to.
