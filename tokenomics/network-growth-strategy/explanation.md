@@ -10,8 +10,8 @@
 
 ### Fee Structure
 
-* 1% is earned by holders back in reflections.
+* No transactional fee's for the purchase and storing VTV
 * 1% of all selling volume is bought back and added the the liquidity pool
-* 1% of all transactional will burned Quarterly
-* 1% will return back into the company as operational and growth costs.
+* Upon exiting, 1% of your position will burned
+* 3% will return back into the company as operational and growth costs.
 
