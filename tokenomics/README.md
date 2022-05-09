@@ -4,14 +4,14 @@
 
 * 10 Billion
 
-### Presale Supply
+### Circulating Supply
 
-* 840,000,000 VLOKR
+* 1 Billion
 
 ### Emission Rate
 
-* 34,615,384.61 per Week (Release to market after Pinklock August 8th, 2022)
+* 100 Million per Week (Release to market)
 
 ### Team Tokens
 
-* &#x20;6.5% of emission rate
+* 6.5 Million per Week (6.5%)
