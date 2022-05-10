@@ -1,6 +1,6 @@
 # ABSTRACT
 
-The social media platforms that we use now have some issues. Problems with keeping user data private, moderating fake news and inappropriate content without turning into censorship. The inappropriate content presents a risk for advertisers who can see their brand possibly compromised and the censorship discourages creative work. The manual moderation is not giving better results. The lack of transparency is also obvious, as social media platforms do not reveal how they use personal data, distribute content or share revenue.
+The social media platforms that we use now have some issues. Problems with keeping user data private, moderating fake news and inappropriate content without turning into censorship. The inappropriate content presents a risk for advertisers and content creators who see their brand being compromised with censorship discouraging creative work. The manual moderation is not giving better results, the lack of transparency is also obvious as social media platforms do not reveal how they use personal data, distribute content or share revenue.
 
 The majority of social media platforms don’t share revenues with content creators and the few that do so have monetization targets that are hard to attain. The average user is not compensated for being the target of lots of advertisements and these are not customized for individual preferences.
 
