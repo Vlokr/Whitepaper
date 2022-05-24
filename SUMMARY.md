@@ -25,3 +25,4 @@
 * [APPENDIX A: THE LIMITATIONS OF SOCIAL MEDIA PLATFORMS](appendix-a-the-limitations-of-social-media-platforms.md)
 * [APPENDIX B: THE VTV DISTRIBUTION ALGORITHM](appendix-b-the-vtv-distribution-algorithm.md)
 * [APPENDIX C: COMPETITION](appendix-c-competition.md)
+* [KYC & AUDIT](kyc-and-audit.md)
