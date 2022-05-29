@@ -26,10 +26,10 @@ The platform has two tokens: VTV and VP. VTV is a utility token that can influen
 
 The VP token represents voting power that is accumulated by VTV holders. The holder will receive 1 VP hourly per VTV in account. A user needs VP to post, vote, tag and comment. The user will then be rewarded by the blockchain algorithm in VTV for posting quality content or for voting trending subjects.
 
-There is a third token that is not native to the Vlocity blockchain, but instead is on the Binancechain. It is a liquidity token that is used to swap into the token of choice for the VTV holder. We are dubbing this token bVTV.&#x20;
+There is a third token that is not native to the Vlocity blockchain, but instead is on the Binance Smart Chain. It is a liquidity token that is used to swap into the token of choice for the VTV holder. We are dubbing this token VLOKR.&#x20;
 
-In our roadmap you will see that once the official app is deployed after POC debugging, it will come with a cross-chain swap function that will seamlessly burn native Vlocity tokens when liquidity is needed and vice versa when bVTV are swapped onto the Vlocity for platform functions.
+In our roadmap you will see that once the official app is deployed after POC debugging, it will come with a cross-chain swap function that will seamlessly burn native Vlocity tokens when liquidity is needed and vice versa when VLOKR are swapped onto the Vlocity for platform functions.
 
 **Pairing**
 
-To ensure a balanced relationship between VTV and bVTV the initial token distribution will be equal on both platforms. There will be a periodic review by the Vlocity non-profit foundation and a consensus by the node operators to balance out the floats through burning, never minting above the total distribution.
+To ensure a balanced relationship between VTV and VLOKR the initial token distribution will be equal on both platforms. There will be a periodic review by the Vlocity non-profit foundation and a consensus by the node operators to balance out the floats through burning, never minting above the total distribution.
