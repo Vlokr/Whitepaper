@@ -44,6 +44,6 @@ The VLOKR platform has a decentralized infrastructure that is resistant to censo
 \
 
 
-![](<.gitbook/assets/image (8).png>)
+![](<.gitbook/assets/Design 12 (1).png>)
 
 _Figure 7_: How content is ranked and rewarded.
